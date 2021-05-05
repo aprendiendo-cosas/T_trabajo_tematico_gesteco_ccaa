@@ -1,4 +1,4 @@
-# kInstrucciones para la realización del trabajo temático de ecología
+# Instrucciones para la realización del trabajo temático de ecología
 
 > + **_Versión_**: v.2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
