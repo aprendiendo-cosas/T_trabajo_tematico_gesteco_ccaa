@@ -43,7 +43,7 @@ La siguiente lista muestra las principales condiciones que ha de cumplir el trab
 
 + Puedes organizar el trabajo en secciones o en un único apartado en el que escribas lo que consideres. En cualquier caso es muy importante que haya un hilo argumental bien definido. Es decir, que haya una historia que contar.  
 
-+ En el trabajo debe de haber referencias bibliográficas. Para incluirlas te vendrá bien recordar lo que vimos en la [práctica](https://aprendiendo-cosas.github.io/P_biblio_ecologia_ccaa/guion_practica_biblio.html) de bibliografía. 
++ En el trabajo debe de haber referencias bibliográficas. Para incluirlas te vendrá bien recordar lo que vimos en la [práctica](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2020-2021/guion_practica_biblio.html) de bibliografía. 
 
 + Todos los trabajos serán evaluados con una herramienta de detección de plagio. El plagio supondrá un cero automático en esta actividad. 
 
